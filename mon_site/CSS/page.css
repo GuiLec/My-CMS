@@ -1,0 +1,32 @@
+body, html {
+	display: flex;
+	height: 100%;
+}
+
+.page_header{
+	background-color: grey;
+	padding: 20px;
+	height: 100%;
+}
+.page_header li {
+	margin:10px;
+}
+
+section {
+	margin:20px;
+}
+
+h1 {
+	font-size: 24px;
+	margin: 12px;
+	font-style: bold;
+}
+
+.module{
+	margin:10px;
+	padding: 20px;
+	border: 1px solid black;
+}
+.description{
+	margin: 15px;
+}
